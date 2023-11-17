@@ -2,6 +2,7 @@
 
 
 📚 Estudante de Análise e Desenvolvimento de Sistemas, minha principal área de especialização é Python, SQL e BI, mas tenho experiência em diversas tecnologias e ferramentas, incluindo Javascript, Html, Css, Machine Learning, Sqlite, MongoDB, Power BI Desktop.
+
 💻 Sou capaz de revisar códigos, investigar e solucionar problemas e buscar soluções quando necessário, possuo também conhecimento nos idiomas inglês e espanhol.
 
 # Conecte-se Comigo
