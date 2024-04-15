@@ -1,7 +1,7 @@
 # Isadora Pimenta
 
 
-📚 Estudante de Análise e Desenvolvimento de Sistemas, minha principal área de especialização é Python, SQL e BI, mas tenho experiência em diversas tecnologias e ferramentas, incluindo Javascript, Html, Css, Machine Learning, Sqlite, MongoDB, Power BI Desktop.
+📚 Estudante de Análise e Desenvolvimento de Sistemas, minha principal área de especialização é Python, SQL, Javascript e Java, mas tenho experiência em diversas tecnologias e ferramentas, incluindo Vscode, Eclipse, Intellij, Pycharm, Machine Learning, Sqlite, MongoDB, Power BI Desktop.
 
 💻 Sou capaz de revisar códigos, investigar e solucionar problemas e buscar soluções quando necessário, possuo também conhecimento nos idiomas inglês e espanhol.
 
@@ -14,11 +14,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sql)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 
 
 ## Futuras Metas
 Estudar as linguagens:
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
 
