@@ -1,7 +1,7 @@
 # Isadora Pimenta
 
 
-📚 Estudante de Análise e Desenvolvimento de Sistemas.
+📚 Estudante de Engenharia de Software e Análise e Desenvolvimento de Sistemas.
 
 💻 Sou capaz de revisar códigos, investigar e solucionar problemas e buscar soluções quando necessário, possuo também conhecimento nos idiomas inglês e espanhol.
 
